@@ -47,7 +47,7 @@ E-mail： <1053364992@qq.com>        Time : 2019/01/31
 
 ### HOW DO WE WORK ?
 
-![How dou we work?](C:\Users\yangchen\Desktop\资料\Typora\TEST\homework\houdowework.png)
+![How dou we work?](houdowework.png)
 
 + Open：个人开放学习交流，公司信息透明。
 
@@ -94,7 +94,7 @@ E-mail： <1053364992@qq.com>        Time : 2019/01/31
 
      给出反馈的公式如下：
 
-     ![做出反馈](C:\Users\yangchen\Desktop\资料\Typora\TEST\homework\feedback1.png)
+     ![做出反馈](feedback1.png)
 
 ### 怎样接受反馈？
 
@@ -111,7 +111,7 @@ E-mail： <1053364992@qq.com>        Time : 2019/01/31
 
 ​	Retro的**目的**在于通过对工作过程的回顾，分析团队的改进空间，回顾是保持团队持续改善的重要工具。回顾会议要营造一个开放、自由、正向的气氛，不能演变成吐槽大会。回顾会议对事不对人，好的、不好的地方都应举实例说明，且最终要能引导团队做出整体改进建议，做出可行的Action。
 
-![Retro](C:\Users\yangchen\Desktop\资料\Typora\TEST\homework\retro.jpg)
+![Retro](retro.jpg)
 
 ​	在本次课程中，主持人带领我们对本次课程做了一次Retro，在现场主持人会保持Retro环境的开放、自由，清除不安全因素。并通过如下表格对本次课程进行回顾：
 
